@@ -4,4 +4,4 @@ Piece of cake! (meaning its something easy)
 Pedazo de pastel (torta) (instead of saying "Es facil" it just said a piece a cake)
 
 Code Demo: https://www.youtube.com/watch?v=Z481OupUP4Q
-Code Walkthrough: (Not Yet)
+Code Walkthrough: https://www.youtube.com/watch?v=LpG7wpLFxes
